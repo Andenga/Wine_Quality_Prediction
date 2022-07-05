@@ -1,5 +1,8 @@
 <h1>DATASET</h1>
 <p>This datasets is related to red variants of the Portuguese "Vinho Verde" wine.It describes the amount of various chemicals present in wine and their effect on it's quality.</p>
+
+<em>“Life is too short to drink bad wine.”</em>
+
 <p>I have used various machine learning classificaton algorithms to predict the quality of the wine. Each wine is given a quality score of between 0 and 10. For the purpose of the project I coverted this binary score to good and bad</p>
 <p>The Dataset can be found on <a href = "https://www.kaggle.com/datasets/yasserh/wine-quality-dataset">Kaggle</a></p>
 <p>The contents of the columns in the dataset are: </p>
