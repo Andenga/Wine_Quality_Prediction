@@ -27,3 +27,19 @@ Output variable (based on sensory data):\
 
 
 What is the best way to know if a wine is good? The quality of wine can be judged by the smell, flavor, and color of the beverage. But machines obviously cannot taste wine, smell it, or perceive the colorful nuances of wine as humans do. Thus, machines require more detailed and clear information (i.e., feature variables), so that one can build an ML model for wine quality prediction.
+
+
+
+
+Fixed acidity. The predominant fixed acids in wine, such as tartaric, succinic, citric, and malic acids.
+Volatile acidity. The high acetic acid present in wine, which causes an unpleasant vinegar taste.
+Citric acid. A weak organic acid used to increase the freshness and flavor of wine.
+Residual sugar. The amount of sugar left after fermentation.
+Chlorides. The amount of salt in wine. The lower chloride rate creates better quality wines.
+Free sulfur dioxide. SO2 is used for preventing wine from oxidation and microbial spoilage.
+Total sulfur dioxide. The amount of free and bound forms of SO2.
+Density. Depends on the alcohol and sugar content. Better wines usually have lower densities.
+pH. Used to check the level of acidity or alkalinity of wine.
+Sulfates. An antibacterial and antioxidant agent added to wine.
+Alcohol. The percentage of alcohol in wine. A higher concentration leads to better quality.
+The output variable is, therefore, the quality rating of wine that is based on sensory data and scores from 0 to 10. Altogether, these features are crucial for getting the most accurate and reliable predictions from a machine learning model.
