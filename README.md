@@ -19,7 +19,7 @@
 <em><b>Alcohol.</b></em> The percentage of alcohol in wine. A higher concentration leads to better quality.<br></p>
 
 <h1>CONCLUSION</h1>
-<p>From my prediction, Random Forest gave the highest accuracy score. Hence it is the best model to use.</p>
+<p>From my prediction, Random Forest gave the highest accuracy score for both the train and test data. Hence it is the best model to use.</p>
 <p>The accuracy of the wine quality prediction scores can be significantly improved by increasing the amount of fixed acidity, citric acid, sulfates, and alcohol, as well as decreasing the amount of volatile acidity and chlorides.</p>
 
 
