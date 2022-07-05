@@ -24,3 +24,6 @@ Input variables (based on physicochemical tests):\
 Output variable (based on sensory data):\
 12 - quality (score between 0 and 10)
 
+
+
+What is the best way to know if a wine is good? The quality of wine can be judged by the smell, flavor, and color of the beverage. But machines obviously cannot taste wine, smell it, or perceive the colorful nuances of wine as humans do. Thus, machines require more detailed and clear information (i.e., feature variables), so that one can build an ML model for wine quality prediction.
